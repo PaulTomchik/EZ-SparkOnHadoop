@@ -6,3 +6,5 @@ hadoop fs -rm -r /user/kant/CPR_WordCounts
   --master yarn-client \
   /home/cluster/EZ-SparkOnHadoop/tests/Kant/kant_wc.py  \
   1000
+
+hadoop fs -cat /user/kant/CPR_WordCounts/* 
