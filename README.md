@@ -1,7 +1,8 @@
 #Set up a Virtual Cluster With Spark & Hadoop.
 
 The end result of these instructions will be an 3-node vitual cluster with Spark and Hadoop.
-###Note: These instructions, and associated scripts, are subject to change.
+
+###Note: These instructions, and associated scripts, are a work in progress. They are meant to get Spark and Hadoop up and running quickly. There is no guarantees regarding the correctness of the configurations, nor their optimality.
 
 ##Instructions
 1. Create an *HadoopCluster* per the instructions in [EZ-Hadoop](https://github.com/PaulTomchik/EZ-Hadoop)
